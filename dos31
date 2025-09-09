@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML 요소</title>
+    </head>
+
+    <body>
+        <h2>HTML 시작하기</h2>
+        <p>첫줄에 문서형식 선언 !DOCTYPE html</p>
+        <p>다음줄부터 요소(element)로 구성</p>
+        <p>-[시작태그]</p>
+    </body>
+</html>
